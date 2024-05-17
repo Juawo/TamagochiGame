@@ -1,0 +1,13 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1715975141
+icon.svg::CompressedTexture2D::8612655155109644836::1713968239::1713968290::1::::<><>::
+jogo.gd::GDScript::-1::1713983170::0::1::::<>Sprite2D<>::
+jogo.tscn::PackedScene::9112242985281870112::1714066044::0::1::::<><>::uid://c6xsqb7le4bps::::res://assets/tamagochi.png<>uid://bfg0mn758aryk::::res://assets/sh_comendo2.png<>res://jogo.gd<>uid://b878fo64vg8f1::::res://assets/sh_idle.png<>uid://c81lmsyorgq48::::res://assets/sh_idle_morto.png<>uid://dd7uc7ndgrpr6::::res://assets/sh_idle_triste.png<>uid://rie3p41ccx6y::::res://assets/botao_normal.png<>uid://dbhwgws8icmuk::::res://assets/botao_pressed.png
+::res://assets/::1713978698
+botao_normal.png::CompressedTexture2D::1210019067913111874::1713968117::1713971091::1::::<><>::
+botao_pressed.png::CompressedTexture2D::7245249212430381074::1713968135::1713971091::1::::<><>::
+sh_comendo2.png::CompressedTexture2D::2751291256398117454::1713977480::1713977656::1::::<><>::
+sh_idle.png::CompressedTexture2D::4770725986170703784::1713978519::1713978698::1::::<><>::
+sh_idle_morto.png::CompressedTexture2D::7143437328648792379::1713978566::1713978698::1::::<><>::
+sh_idle_triste.png::CompressedTexture2D::7437108282541124645::1713978601::1713978698::1::::<><>::
+tamagochi.png::CompressedTexture2D::6997297789544223516::1713894312::1713971092::1::::<><>::
